@@ -9,7 +9,7 @@ questions:
 objectives:
 - "Know what Markdown is."
 - "Know how to insert lists."
-- "Know how to insert fiures".
+- "Know how to insert fiures."
 keypoints:
 - "Markdown is a markup language that can be converted to HTML."
 - "You use `-` to start a list."
